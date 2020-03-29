@@ -1,1 +1,2 @@
-# Simulation_project_R
+# Simulation_RandomForest_LogReg
+This statistical project addresses several themes such as data simulation, extreme values and prediction of a binary variable by a random forest algorithm and logistic regression. In order to have a more realistic study, the simulated data set tries to keep the original structure of the real data coming from the field of health. The objective of this project is to demonstrate if it is true that the random forest algorithm is more robust than the logistic regression in case of a high percentage of outliers in the data.
